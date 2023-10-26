@@ -20,7 +20,6 @@ And Numbers of units per category to let the user know how many do we have for e
 https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/       
 https://docs.microsoft.com/en-us/learn/paths/model-power-bi/        
 https://spreadsheeto.com/power-bi-best-practices/#:~:text=1%20Put%20first%20things%20first.%20This%20one%20is,with%20numeric%20data%2C%20use%20integers%20instead%20of%20strings.   
-  
 https://powerbi.microsoft.com/en-us/data-storytelling/   
 https://www.youtube.com/watch?v=HrPipzMA5gk&t=396s    
 https://www.youtube.com/watch?v=gv58fGGgRQs&t=674s     
